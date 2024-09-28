@@ -1,5 +1,5 @@
 <div style="display:flex"><img align="right" src="https://visitcount.itsvg.in/api?id=LTasaycoQ&icon=0&color=0)](https://visitcount.itsvg.in" />
-<img src="https://img.shields.io/github/followers/LTasaycoQ" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/LTasaycoQ">
 </div>
 
 
