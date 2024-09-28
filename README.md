@@ -27,7 +27,7 @@
             Siempre estoy buscando aprender y colaborar en nuevas iniciativas, así que no dudes en contactarme si tienes alguna idea o proyecto en mente.
         </td>
         <td>
-            <img src="https://www.e-abclearning.com/wp-content/uploads/2022/07/gif_novedades.gif" width="300" />
+            <img src="https://www.e-abclearning.com/wp-content/uploads/2022/07/gif_novedades.gif" width="280" />
         </td>
     </tr>
 </table>
