@@ -18,9 +18,19 @@
 
 <h3 align="center">A passionate software developer from Peru</h3>
 
-|  |  |
-|-------------|--------|
-| Soy Luis Tasasyco, un estudiante entusiasta de la tecnología y el desarrollo de software.<br>Actualmente, estoy explorando el mundo de la programación y descubriendo nuevas herramientas.<br>Me apasiona crear proyectos que resuelvan problemas y mejoren la vida cotidiana.<br>Siempre estoy buscando aprender y colaborar en nuevas iniciativas, así que no dudes en contactarme si tienes alguna idea o proyecto en mente. | ![Imagen](https://www.e-abclearning.com/wp-content/uploads/2022/07/gif_novedades.gif) |
+<table>
+    <tr>
+        <td>
+            Soy Luis Tasasyco, un estudiante entusiasta de la tecnología y el desarrollo de software.<br>
+            Actualmente, estoy explorando el mundo de la programación y descubriendo nuevas herramientas.<br>
+            Me apasiona crear proyectos que resuelvan problemas y mejoren la vida cotidiana.<br>
+            Siempre estoy buscando aprender y colaborar en nuevas iniciativas, así que no dudes en contactarme si tienes alguna idea o proyecto en mente.
+        </td>
+        <td>
+            <img src="https://www.e-abclearning.com/wp-content/uploads/2022/07/gif_novedades.gif" width="300" />
+        </td>
+    </tr>
+</table>
 
 
 
