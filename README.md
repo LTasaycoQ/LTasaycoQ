@@ -16,7 +16,19 @@
     </p>
 </div>
 
-<h3 align="center">A passionate software developer from Peru 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Peru</h3>
+<div style="display: flex; justify-content: center; align-items:center;">
+    <p>
+        Soy Luis Tasasyco, un estudiante entusiasta de la tecnología y el</br> desarrollo de software.
+ Actualmente, estoy explorando el</br> mundo de la programación
+y descubriendo nuevas herramientas</br> y lenguajes que me ayudan a</br> crecer como desarrollador.
+
+Me apasiona crear proyectos que resuelvan problemas y mejoren</br> la vida cotidiana. 
+Siempre estoy buscando aprender y colaborar</br> en nuevas iniciativas, así que no dudes en contactarme
+</br> si tienes alguna idea o proyecto en mente.
+    </p>
+    <img src="https://github.com/user-attachments/assets/32456707-c88e-44de-894f-17e4be6b07c7" width="300" />
+</div>
 <div style="display: flex; justify-content: center; align-items:center; align:center;">
     <img src="https://github-readme-stats.vercel.app/api?username=LTasaycoQ&theme=dracula&show_icons=true&hide_border=false&count_private=false" width="400" />
     &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;
