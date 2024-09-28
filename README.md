@@ -20,7 +20,7 @@
 
 |  |  |
 |-------------|--------|
-| Soy Luis Tasasyco, un estudiante entusiasta de la tecnología y el desarrollo de software.<br>Actualmente, estoy explorando el mundo de la programación y descubriendo nuevas herramientas.<br>Me apasiona crear proyectos que resuelvan problemas y mejoren la vida cotidiana.<br>Siempre estoy buscando aprender y colaborar en nuevas iniciativas, así que no dudes en contactarme si tienes alguna idea o proyecto en mente. | ![Imagen](https://github.com/user-attachments/assets/32456707-c88e-44de-894f-17e4be6b07c7) |
+| Soy Luis Tasasyco, un estudiante entusiasta de la tecnología y el desarrollo de software.<br>Actualmente, estoy explorando el mundo de la programación y descubriendo nuevas herramientas.<br>Me apasiona crear proyectos que resuelvan problemas y mejoren la vida cotidiana.<br>Siempre estoy buscando aprender y colaborar en nuevas iniciativas, así que no dudes en contactarme si tienes alguna idea o proyecto en mente. | ![Imagen](https://i.pinimg.com/originals/de/4a/fd/de4afd5ed84f1b037171aa2740b3253d.gif) |
 
 
 
