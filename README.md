@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LTasaycoQ.LTasaycoQ" />
+<img align="right" src="https://visitcount.itsvg.in/api?id=LTasaycoQ&icon=0&color=0)](https://visitcount.itsvg.in" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Luis+Tasayco!;" />
@@ -24,6 +24,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTasaycoQ&theme=dracula&show_icons=true&hide_border=false&layout=compact" width="300" />
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LTasaycoQ&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+
 
 <!--
 **LTasaycoQ/LTasaycoQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,3 +43,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
