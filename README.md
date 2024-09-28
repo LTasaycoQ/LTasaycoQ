@@ -16,9 +16,9 @@
 
 <h3 align="center">A passionate software developer from Peru 🇨🇦</h3>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=LTasaycoQ&theme=dracula&show_icons=true&hide_border=false&count_private=false" width="450" />
-    &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;  &nbsp;    
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LTasaycoQ&theme=dracula&hide_border=false" width="450" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LTasaycoQ&theme=dracula&show_icons=true&hide_border=false&count_private=false" width="400" />
+    &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LTasaycoQ&theme=dracula&hide_border=false" width="400" />
 </div>
 
 
