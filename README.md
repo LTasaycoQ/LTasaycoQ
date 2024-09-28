@@ -1,4 +1,6 @@
-<img align="right" src="https://visitcount.itsvg.in/api?id=LTasaycoQ&icon=0&color=0)](https://visitcount.itsvg.in" />
+<div style="display:flex"><img align="right" src="https://visitcount.itsvg.in/api?id=LTasaycoQ&icon=0&color=0)](https://visitcount.itsvg.in" />
+<img src="https://img.shields.io/github/followers/LTasaycoQ" />
+</div>
 
 
 <h1 align="center">
@@ -6,7 +8,6 @@
 </h1>
 <div style="display: flex; justify-content: center; align-items:center;">
     <p align="center">
-        <img src="https://img.shields.io/github/followers/LTasaycoQ" />
         <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
