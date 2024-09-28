@@ -15,8 +15,8 @@
 </div>
 
 <h3 align="center">A passionate software developer from Peru 🇨🇦</h3>
+![LTasaycoQ's Stats](https://github-readme-stats.vercel.app/api?username=LTasaycoQ&theme=dracula&show_icons=true&hide_border=false&count_private=false)
 
-<br/>
 
 <!--
 **LTasaycoQ/LTasaycoQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
