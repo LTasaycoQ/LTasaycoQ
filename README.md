@@ -20,7 +20,7 @@
 
 |  |  |
 |-------------|--------|
-| Soy Luis Tasasyco, un estudiante entusiasta de la tecnología y el desarrollo de software.<br>Actualmente, estoy explorando el mundo de la programación y descubriendo nuevas herramientas.<br>Me apasiona crear proyectos que resuelvan problemas y mejoren la vida cotidiana.<br>Siempre estoy buscando aprender y colaborar en nuevas iniciativas, así que no dudes en contactarme si tienes alguna idea o proyecto en mente. | ![Imagen](https://media.tenor.com/D609Ay5PK5QAAAAj/skill-issue-coding.gif) |
+| Soy Luis Tasasyco, un estudiante entusiasta de la tecnología y el desarrollo de software.<br>Actualmente, estoy explorando el mundo de la programación y descubriendo nuevas herramientas.<br>Me apasiona crear proyectos que resuelvan problemas y mejoren la vida cotidiana.<br>Siempre estoy buscando aprender y colaborar en nuevas iniciativas, así que no dudes en contactarme si tienes alguna idea o proyecto en mente. | ![Imagen](https://www.e-abclearning.com/wp-content/uploads/2022/07/gif_novedades.gif) |
 
 
 
