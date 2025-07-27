@@ -18,51 +18,13 @@
 
 <h3 align="center">A passionate software developer from Peru</h3>
 
-<table>
-    <tr>
-        <td>
-            Soy Luis Tasasyco, un estudiante entusiasta de la tecnología y el desarrollo de software.<br>
-            Actualmente, estoy explorando el mundo de la programación y descubriendo nuevas herramientas.<br>
-            Me apasiona crear proyectos que resuelvan problemas y mejoren la vida cotidiana.<br>
-            Siempre estoy buscando aprender y colaborar en nuevas iniciativas, así que no dudes en contactarme si tienes alguna idea o proyecto en mente.
-        </td>
-        <td>
-            <img src="https://www.e-abclearning.com/wp-content/uploads/2022/07/gif_novedades.gif" width="280" />
-        </td>
-    </tr>
-</table>
+<p>       
+    Soy Luis Tasasyco, un estudiante entusiasta de la tecnología y el desarrollo de software.<br>
+    Actualmente, estoy explorando el mundo de la programación y descubriendo nuevas herramientas.<br>
+    Me apasiona crear proyectos que resuelvan problemas y mejoren la vida cotidiana.<br>
+    Siempre estoy buscando aprender y colaborar en nuevas iniciativas, así que no dudes en contactarme si tienes alguna idea o proyecto en mente.
+</p>
+
+     
 
 
-
-<div style="display: flex; justify-content: center; align-items:center; align:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=LTasaycoQ&theme=dracula&show_icons=true&hide_border=false&count_private=false" width="400" />
-    &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LTasaycoQ&theme=dracula&hide_border=false" width="400" />
-</div>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTasaycoQ&theme=dracula&show_icons=true&hide_border=false&layout=compact" width="300" />
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LTasaycoQ&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-
-
-<!--
-**LTasaycoQ/LTasaycoQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
