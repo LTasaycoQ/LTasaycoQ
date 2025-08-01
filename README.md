@@ -1,4 +1,6 @@
-<div style="display:flex"><img align="right" alt="GitHub followers" src="https://img.shields.io/github/followers/LTasaycoQ"><img align="right" src="https://visitcount.itsvg.in/api?id=LTasaycoQ&icon=0&color=0)](https://visitcount.itsvg.in" />
+<div style="display:flex"><img align="right" alt="GitHub followers" src="https://img.shields.io/github/followers/LTasaycoQ">
+    <img align="right" src="https://visitcount.itsvg.in/api?id=LTasaycoQ&icon=0&color=0" />
+
 </div>
 
 
